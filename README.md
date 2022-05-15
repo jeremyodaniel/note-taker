@@ -4,7 +4,7 @@
   An application to write and save notes.
   
   ## Installation Guide
-  Click the link to see the deployed website.
+  Click the link to see the deployed website.  
   https://jeremyodaniel.github.io/note-taker/
   
   ## Mock-Up

@@ -9,7 +9,7 @@
   
   ## Mock-Up
   The following images show the web application's appearance and functionality:
-  ![Mock-up](./develop/public/assets/images/mock-up.png "Mock-up")
+  ![Mock-up](develop/public/assets/images/mock-up.png "Mock-up")
 
   ## Licenses
   MIT

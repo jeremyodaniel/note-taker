@@ -2,6 +2,13 @@
 const express = require('express');
 // instantiate the server
 const app = express();
+const { notes } = require('./db/notes');
+
+
+// GET route
+app.get('/api/notes', (req, res) => {
+  res.json(notes);
+});
 
 
 app.listen(3001, () => {

@@ -2,10 +2,10 @@
 
   ## Project Description
   An application to write and save notes.
-
-  ## Usage
   
   ## Installation Guide
+  Click the link to see the deployed website.
+  https://jeremyodaniel.github.io/note-taker/
   
   ## Mock-Up
   The following images show the web application's appearance and functionality:

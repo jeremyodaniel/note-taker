@@ -4,6 +4,9 @@
   An application to write and save notes.
   
   ## Installation Guide
+  Clone this app locally and run 'npm i', this app will run on http://localhost:3001/
+
+  ## Deployment
   Click the link to see the deployed website.  
   https://note-taker-33223.herokuapp.com/
   
@@ -19,6 +22,4 @@
 
   ### Email
   jeremy.odaniel@gmail.com
-
-  ### How to contribute
   

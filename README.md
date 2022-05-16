@@ -5,7 +5,7 @@
   
   ## Installation Guide
   Click the link to see the deployed website.  
-  https://jeremyodaniel.github.io/note-taker/
+  https://note-taker-33223.herokuapp.com/
   
   ## Mock-Up
   The following images show the web application's appearance and functionality:
